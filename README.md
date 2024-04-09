@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rita</h1>
 <h3 align="center">A Software Engineering student interested in Full Stack Development!</h3>
 
@@ -11,7 +9,6 @@
 
 - 📫 How to reach me **zherita0502@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
