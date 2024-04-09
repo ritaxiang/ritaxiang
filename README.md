@@ -1,8 +1,3 @@
-<div align="center">
-<img src="[https://files.oaiusercontent.com/file-j9sqZcpielwpRCHQJxfGa87u?se=2024-04-09T20%3A03%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40f5dc90-2725-4b56-a3bb-cc623349f56c.webp&sig=EWU4pijk%2Bzo2KKLWeOry30PKzlCfX1/FJzA7p1iYgSA%3D](https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D)" align="center" height="100" width="" />
-</div>  
-  
-
 ### <div align="center">I'm Rita, a Software Engineering student at University of Waterloo</div>  
   
 
