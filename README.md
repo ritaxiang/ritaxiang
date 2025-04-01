@@ -16,27 +16,7 @@
 <a href="https://github.com/ritaxiang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zng2nxrefbj01bxmajsko8njy&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=d5c5e2&bar_color_cover=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
+</div> 
 
 <br />
 
